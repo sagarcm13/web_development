@@ -1,10 +1,10 @@
 body {
     /* background-color: rgb(161, 6, 27); */
-    /* font-family: 'ubuntu'; */
+    font-family: 'ubuntu';
     font-style: bold;
 }
 #f{
-font-family: ubuntu;
+/* font-family: ubuntu; */
 color:springgreen;
 background-color: rgb(192, 73, 192);
 /* font-style: italic; */
@@ -17,6 +17,8 @@ background-color: rgb(192, 73, 192);
     margin-right: 30px;
     margin-top: 20px;
     margin-bottom: 20px;
+    border: 3px solid #000;
+    border-radius: 50px;
 }
 /* h2 {
     color: rgb(236, 184, 13);
@@ -24,8 +26,9 @@ background-color: rgb(192, 73, 192);
     background: rgb(7, 7, 7);
 } */
 .first{
+    border: 3px solid rgb(30, 5, 122);
     color: rgb(56, 202, 11);
-    background: rgb(83, 22, 22);
+    background: rgb(223, 76, 76);
     padding: 30px;
 }
 /* .sec{

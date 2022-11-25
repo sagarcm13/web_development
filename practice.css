@@ -1,33 +1,36 @@
 body {
-    background-color: rgb(161, 6, 27);
+    /* background-color: rgb(161, 6, 27); */
     /* font-family: 'ubuntu'; */
     font-style: bold;
 }
 #f{
 font-family: ubuntu;
 color:springgreen;
-background-color: thistle;
+background-color: rgb(192, 73, 192);
 /* font-style: italic; */
 }
 #first{
     color: aqua;
-    background: white;
+    background: rgb(124, 10, 10);
     padding: 70px;
     margin-left: 30px;
     margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
-h2 {
+/* h2 {
     color: rgb(236, 184, 13);
     margin-left: 20px;
     background: rgb(7, 7, 7);
-}
+} */
 .first{
     color: rgb(56, 202, 11);
-    background: rgb(235, 15, 15);
+    background: rgb(83, 22, 22);
+    padding: 30px;
 }
-.sec{
+/* .sec{
     color: aqua;
     background: white;
     padding: 10px;
     margin: auto;
-}
+} */
